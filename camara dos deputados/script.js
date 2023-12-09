@@ -1,3 +1,5 @@
+//QUESTÃO 3: javascript
+
 //o método para selecionar os elementos do tipo figcaption retorna um HTMLCollection
 var item = document.getElementsByTagName("figcaption");
 console.log(item)

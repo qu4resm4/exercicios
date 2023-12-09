@@ -1,0 +1,37 @@
+/*QUESTÃO 3: css*/
+
+body {
+    background-color: #CAE2FB;
+}
+
+header {
+    
+}
+
+h1 {
+    color: #000980;
+    text-align: center;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+p {
+    text-align: center;
+}
+
+main {
+    display: flex;
+}
+
+.deputado:first-child {
+    margin-right: 10px;
+    margin-left: auto;
+}
+
+.deputado:last-child {
+    margin-right: auto;
+}
